@@ -1,0 +1,12 @@
+{
+ "name": "Roselle Token",
+ "website": "https://rosswap.com",
+ "description": "Roselle is a platform token for RosSwap and the NFT 
+ trading market, and a value token with product support",
+ "explorer": "https://fonscan.io/address/0xf75f541F2B12F5647DeEa400957E1B8f7388a390",
+ "type": "FRC20",
+ "symbol": "Roselle",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf75f541F2B12F5647DeEa400957E1B8f7388a390"
+}
